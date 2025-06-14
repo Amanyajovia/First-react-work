@@ -1,0 +1,10 @@
+.greeting-card{
+    border: 5px solid orange;
+    padding: 5%;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 5%;
+    background-color: white;
+    height: 300px;
+    border-radius: 20px;
+}
