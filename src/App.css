@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.Goal{
+  align-items: center; 
+  margin-left: 50%; 
+  border: solid; 
+  background-color: antiquewhite; 
+  border-radius: 10px;
+}
